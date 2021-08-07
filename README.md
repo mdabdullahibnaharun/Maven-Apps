@@ -8,14 +8,23 @@ open cmd  & type this command : mvn --version
 ## To Creat project 
 open cmd on project directory & type this command : mvn archetype:generate
 
+## To Clean Project
+open cmd on project directory & type this command : mvn clean
 
-## To Install This Project
+## To Buoild This Project
 open cmd on project directory & type this command : mvn clean install
 
-## To compile this Project
+## To Compile this Project
 open cmd on project directory & type this command : mvn compile
 
 ![image](https://user-images.githubusercontent.com/60839928/128613782-6ed53f70-599a-4545-ad88-0f01263c774b.png)
+
+## TO Test the App
+open cmd on project directory & type this command : mvn test
+
+![image](https://user-images.githubusercontent.com/60839928/128613866-6d677ce2-a667-4bda-b463-d8de9dfaa23b.png)
+
+
 
 ## For Exicution 
 open cmd on project directory & type this command : java -cp target/<(name).jar>  <package name><class-name.java>
