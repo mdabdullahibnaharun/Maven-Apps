@@ -8,6 +8,8 @@ open cmd  & type this command : mvn --version
 ## To Creat project 
 open cmd on project directory & type this command : mvn archetype:generate
 
+![image](https://user-images.githubusercontent.com/60839928/128614334-2f1a9672-dee4-4f15-8967-cc6cfcfa81b6.png)
+
 ## To Clean Project
 open cmd on project directory & type this command : mvn clean
 
